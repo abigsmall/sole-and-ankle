@@ -12,6 +12,8 @@ const Logo = (props) => {
 };
 
 const Link = styled.a`
+  padding-right: 48px;
+  flex-grow: 1;
   text-decoration: none;
   color: inherit;
 `;
